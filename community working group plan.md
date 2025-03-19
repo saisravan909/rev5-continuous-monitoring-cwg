@@ -28,14 +28,10 @@ The Rev5 Continuous Monitoring Working Group is especially relevant for members 
 
 ## Key Community Working Groups Activities
 FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP but participants are strongly encouraged to self-organize around activities related to the CWG. 
-- [Identify and list specific activities to be accomplished. This includes such activities as developing specific software or methodologies and the location of any public GitHub repositories.]
   - **Transition of all Overisght Activities to Agencies**
-    - Details
   - **Identify and Share Best Practices in Continuos Monitoring**
-    - Details
   - **Keep Legacy Authorized Partties abreast of Authorization Changes**
-    - Details
-
+    
 ## Interaction with FedRAMP
 The Rev5 Continuous Monitoring Working Group will be managed by the following member of the FedRAMP PMO:
 - Paul Agosta, [@paulagosta](https://www.github.com/paulagosta)
@@ -60,12 +56,12 @@ All communication related to this community must take place in public; private m
 FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from government representatives participating in the CWG: [FedRAMP Disclaimer](https://fedramp.gov/disclaimer)
 
 ## Transparency and Communication
-This CWG will primarily operate on GitHub in the following repository and Discussion forum:
+This working group will primarily operate on GitHub in the following repository and Discussion forum:
 - [Rev5 Continuous Monitoring Working Group Repo](https://github.com/FedRAMP/rev5-continuous-monitoring)
-- [Rev5 Continuous Monitoring Working Group Repo](https://github.com/FedRAMP/rev5-continuous-monitoring/discussions)
+- [Rev5 Continuous Monitoring Working Group Discussion](https://github.com/FedRAMP/rev5-continuous-monitoring/discussions)
 
 The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
-- [TBD](#)
+- [TBD]
 
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:
 - [FedRAMP YouTube](https://www.youtube.com/c/FedRAMP)
