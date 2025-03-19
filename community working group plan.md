@@ -15,7 +15,7 @@ FedRAMP Community Working Groups (CWGs) are public, informal and collaborative g
 - Ensure that FedRAMP stakeholders have equal public access to information from FedRAMP and an open forum and semi-structured opportunities to work towards shared goals in different and innovative ways.
 
 ## Rev5 Continuous Monitoring Working Group
-- [details on scope]
+The Rev 5 Continuous Monitoring Reporting Working Group will be an informal, collaborative group; involve voluntary participation of all members; provide transparent information about sessions; and its scope excludes the development of FedRAMP standards and policies. The Rev 5 Continuous Monitoring Reporting Working Group is focused on the development of continuous monitoring reports, and how these reports for CSPs with FedRAMP Rev. 5 authorizations will be developed to meet agency needs.
 
 ## Participation
 FedRAMP CWGs are open to the public and all members of the community may participate or follow along. 
@@ -29,11 +29,11 @@ The Rev5 Continuous Monitoring Working Group is especially relevant for members 
 ## Key Community Working Groups Activities
 FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP but participants are strongly encouraged to self-organize around activities related to the CWG. 
 - [Identify and list specific activities to be accomplished. This includes such activities as developing specific software or methodologies and the location of any public GitHub repositories.]
-  - **Activity One**
+  - **Transition of all Overisght Activities to Agencies**
     - Details
-  - **Activity Two**
+  - **Identify and Share Best Practices in Continuos Monitoring**
     - Details
-  - **Activity Three**
+  - **Keep Legacy Authorized Partties abreast of Authorization Changes**
     - Details
 
 ## Interaction with FedRAMP
@@ -61,15 +61,14 @@ FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from
 
 ## Transparency and Communication
 This CWG will primarily operate on GitHub in the following repository and Discussion forum:
-- [Rev5 Continuous Monitoring Working Group](https://github.com/FedRAMP/rev5-continuous-monitoring)
-
-Link to Discussion Forum
+- [Rev5 Continuous Monitoring Working Group Repo](https://github.com/FedRAMP/rev5-continuous-monitoring)
+- [Rev5 Continuous Monitoring Working Group Repo](https://github.com/FedRAMP/rev5-continuous-monitoring/discussions)
 
 The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
-- [Zoom signup link](#)
+- [TBD](#)
 
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:
-- [YouTube Link, #hashtag / playlist / or whatever](#)
+- [FedRAMP YouTube](https://www.youtube.com/c/FedRAMP)
 
 Every two weeks, the Community Manager will post a Summary of Activity to the CWG that includes the following:
 - Recap of questions asked by FedRAMP
