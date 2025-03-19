@@ -2,6 +2,7 @@
 
 ## Table of Contents 
 - [Background](#background)
+- Rev5 Continuous Monitoring Working Group (#rev5-continuous-monitoring-working-group).  
 - [Participation](#participation)
 - [Key Community Working Groups Activities](#key-community-working-groups-activities)
 - [Interaction with FedRAMP](#interaction-with-fedramp)
@@ -13,7 +14,7 @@ FedRAMP Community Working Groups (CWGs) are public, informal and collaborative g
 - Ensure FedRAMP has direct insight into community activities, goals, achievements, best practices, etc. in specific areas to inform creation of standards and policies prior to their formal development.
 - Ensure that FedRAMP stakeholders have equal public access to information from FedRAMP and an open forum and semi-structured opportunities to work towards shared goals in different and innovative ways.
 
-**Working Group Name**
+## Rev5 Continuous Monitoring Working Group
 - [details on scope]
 
 ## Participation
