@@ -40,8 +40,20 @@ FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP
 The Rev5 Continuous Monitoring Working Group will be managed by the following member of the FedRAMP PMO:
 - Paul Agosta, [@paulagosta](https://www.github.com/paulagosta)
 
-In addition, the following members of the FedRAMP PMO will support this community as FedRAMP advocates, sharing additional information and addressing feedback as appropriate:
+Community working group managers are PMO participants responsible for administrative tasks and connective tissue. They will:
+  - Provide general working group facilitation, ensuring folks stay on track with the agenda, and that everyone is able to participate appropriately.
+  - Schedule meetings and post a public calendar, ensure agendas are developed, the meeting platform works appropriately, and notes are captured and posted.
+  - Occasionally pose questions to the group in a way that is clearly designed to spark general discussion around a topic to see individual opinions and responses.
+  - Select community moderators from public applications in alignment with the group charter.
+
+In addition, the following member of the FedRAMP PMO will support this community as FedRAMP advocate, sharing additional information and addressing feedback as appropriate:
 - Ryan Hodges, [@ryan-hodges-gsa](https://www.github.com/ryan-hodges-gsa)
+
+FedRAMP Advocates are PMO folks engaging with the CWGs and advocating for FedRAMP in them, with a focus on technical content. They will:
+  - Answer questions related to how FedRAMP’s standards and policies can best be informed by the activities performed in the working group.
+  - Clarify FedRAMP’s goals and objectives related to the development of standards and policies.
+  - Share public prototypes, examples, sample code, etc. developed by FedRAMP to be placed in the public domain.
+  - Contribute to the development of additional public prototypes, examples, sample code, etc. developed by participants of the working group where that work is public and contributions will remain in the public domain.
 
 All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Manager and FedRAMP advocates. Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not use working groups to seek consensus advice, review, or approval. 
 
