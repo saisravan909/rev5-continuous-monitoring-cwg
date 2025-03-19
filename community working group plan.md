@@ -38,10 +38,10 @@ FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP
 
 ## Interaction with FedRAMP
 The Rev5 Continuous Monitoring Working Group will be managed by the following member of the FedRAMP PMO:
-- Paul Agosta, [@paulagosta] (https://www.github.com/paulagosta)
+- Paul Agosta, [@paulagosta](https://www.github.com/paulagosta)
 
 In addition, the following members of the FedRAMP PMO will support this community as FedRAMP advocates, sharing additional information and addressing feedback as appropriate:
-- Ryan Hodges, [@ryan-hodges-gsa] (https://www.github.com/ryan-hodges-gsa)
+- Ryan Hodges, [@ryan-hodges-gsa](https://www.github.com/ryan-hodges-gsa)
 
 All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Manager and FedRAMP advocates. Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not use working groups to seek consensus advice, review, or approval. 
 
