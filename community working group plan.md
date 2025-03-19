@@ -2,7 +2,7 @@
 
 ## Table of Contents 
 - [Background](#background)
-- Rev5 Continuous Monitoring Working Group (#rev5-continuous-monitoring-working-group).  
+- [Rev5 Continuous Monitoring Working Group](#rev5-continuous-monitoring-working-group).  
 - [Participation](#participation)
 - [Key Community Working Groups Activities](#key-community-working-groups-activities)
 - [Interaction with FedRAMP](#interaction-with-fedramp)
@@ -20,9 +20,11 @@ FedRAMP Community Working Groups (CWGs) are public, informal and collaborative g
 ## Participation
 FedRAMP CWGs are open to the public and all members of the community may participate or follow along. 
 
-The [CWG Name] CWG is especially relevant for members of the following communities:
-- Security & Compliance managers at cloud service providers
-- Etc. (be specificish)
+The Rev5 Continuous Monitoring Working Group is especially relevant for members of the following communities:
+- Cloud Service Providers who are currently FedRAMP Authorized under Rev 4/5 (or those still undergoing reviews)
+- Agency Security Teams who are currently FedRAMP Authorized under Rev 4/5 (or those still undergoing reviews)  
+- Third-Party Assessment Organizations (3PAOs)
+- FedRAMP Advisors/Consultants 
 
 ## Key Community Working Groups Activities
 FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP but participants are strongly encouraged to self-organize around activities related to the CWG. 
@@ -35,13 +37,11 @@ FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP
     - Details
 
 ## Interaction with FedRAMP
-The [CWG Name] CWG will be managed by the following member of the FedRAMP PMO:
-- Name, GitHub Username
+The Rev5 Continuous Monitoring Working Group will be managed by the following member of the FedRAMP PMO:
+- Paul Agosta, [@paulagosta] (https://www.github.com/paulagosta)
 
 In addition, the following members of the FedRAMP PMO will support this community as FedRAMP advocates, sharing additional information and addressing feedback as appropriate:
-- Name, GitHub Username
-- Name, GitHub Username
-- Name, GitHub Username
+- Ryan Hodges, [@ryan-hodges-gsa] (https://www.github.com/ryan-hodges-gsa)
 
 All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Manager and FedRAMP advocates. Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not use working groups to seek consensus advice, review, or approval. 
 
@@ -49,7 +49,7 @@ FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from
 
 ## Transparency and Communication
 This CWG will primarily operate on GitHub in the following repository and Discussion forum:
-- **GitHub Repo Name**
+- [Rev5 Continuous Monitoring Working Group](https://github.com/FedRAMP/rev5-continuous-monitoring)
 
 Link to Discussion Forum
 
