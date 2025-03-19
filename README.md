@@ -1,2 +1,2 @@
-# rev5-continuous-monitoring
-Repository for community collaboration in the FedRAMP 2025 Rev5 Continuous Monitoring Working Group.
+# Rev5 Continuous Monitoring Working Group
+Welcome to the *Rev5 Continuous Monitoring* Community Working Group! Please refer to the [Working Group Charter](charter.md) for information about the goals and primary audience of the working group. 
