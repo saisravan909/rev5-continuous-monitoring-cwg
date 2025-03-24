@@ -1,4 +1,4 @@
-# Community Working Group Plan
+# Rev 5 Continuous Monitoring Community Working Group Plan
 
 ## Table of Contents 
 - [Background](#background)
@@ -63,18 +63,10 @@ This working group will primarily operate on GitHub in the following repository 
 The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
 The first meeting will be held on Monday, March 31st from 1-2 PM via Zoom.  
 
-[REGISTER HERE](https://gsa.zoomgov.com/meeting/register/m39vhY_hSl6YRBwwpRPdgw)
-
-[ZoomGov]([https://gsa.zoomgov.com/j/16196570234?pwd=UW5WaWFWY1lSTHhNaHdWYW1EbnZjdz09&omn=1616807027](https://gsa.zoomgov.com/j/1616807027?pwd=mnVomqu5xiWIiPh7zStDQhiLuh3yQN.1)
-
-• 833 435 1820 US Toll-free
-• 833 568 8864 US Toll-free
-
-Meeting ID: 161 9657 0234
-Passcode: 183609
+- [Zoom signup link](https://gsa.zoomgov.com/meeting/register/m39vhY_hSl6YRBwwpRPdgw)
 
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:
-- [FedRAMP YouTube](https://www.youtube.com/c/FedRAMP)
+- [FedRAMP YouTube Channel](https://www.youtube.com/c/FedRAMP)
 
 Every two weeks, the Community Manager will post a Summary of Activity to the CWG that includes the following:
 - Recap of questions asked by FedRAMP
