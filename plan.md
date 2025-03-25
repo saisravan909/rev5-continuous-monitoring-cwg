@@ -28,9 +28,9 @@ The Rev5 Continuous Monitoring Working Group is especially relevant for members 
 
 ## Key Community Working Groups Activities
 FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP but participants are strongly encouraged to self-organize around activities related to the CWG. 
-  - **Transition of all Overisght Activities**
+  - **Transition of all Oversight Activities**
   - **Identify and Share Best Practices in Continuos Monitoring**
-  - **Keep Legacy Authorized Partties abreast of Authorization Changes**
+  - **Keep Legacy Authorized Parties abreast of Authorization Changes**
     
 ## Interaction with FedRAMP
 The Rev5 Continuous Monitoring Working Group will be managed by the following member of the FedRAMP PMO:
