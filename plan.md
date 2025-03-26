@@ -33,10 +33,10 @@ FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP
   - **Keep Legacy Authorized Parties abreast of Authorization Changes**
     
 ## Interaction with FedRAMP
-The Rev5 Continuous Monitoring Working Group will be managed by the following member of the FedRAMP PMO:
+The Rev5 Continuous Monitoring Working Group will be mediated by the following member of the FedRAMP PMO:
 - Paul Agosta, [@paulagosta](https://www.github.com/paulagosta)
 
-Community working group managers are PMO participants responsible for administrative tasks and connective tissue. They will:
+Community working group mediators are PMO participants responsible for administrative tasks and connective tissue. They will:
   - Provide general working group facilitation, ensuring folks stay on track with the agenda, and that everyone is able to participate appropriately.
   - Schedule meetings and post a public calendar, ensure agendas are developed, the meeting platform works appropriately, and notes are captured and posted.
   - Occasionally pose questions to the group in a way that is clearly designed to spark general discussion around a topic to see individual opinions and responses.
@@ -51,7 +51,7 @@ FedRAMP Advocates are PMO folks engaging with the CWGs and advocating for FedRAM
   - Share public prototypes, examples, sample code, etc. developed by FedRAMP to be placed in the public domain.
   - Contribute to the development of additional public prototypes, examples, sample code, etc. developed by participants of the working group where that work is public and contributions will remain in the public domain.
 
-All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Manager and FedRAMP advocates. Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not use working groups to seek consensus advice, review, or approval. 
+All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Mediator and FedRAMP advocates. Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not use working groups to seek consensus advice, review, or approval. 
 
 FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from government representatives participating in the CWG: [FedRAMP Disclaimer](https://fedramp.gov/disclaimer)
 
@@ -60,7 +60,7 @@ This working group will primarily operate on GitHub in the following repository 
 - [Rev5 Continuous Monitoring Working Group Repo](https://github.com/FedRAMP/rev5-continuous-monitoring)
 - [Rev5 Continuous Monitoring Working Group Discussion](https://github.com/FedRAMP/rev5-continuous-monitoring/discussions)
 
-The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
+The community mediator will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
 The first meeting will be held on Monday, March 31st from 1-2 PM via Zoom.  
 
 - [Zoom signup link](https://gsa.zoomgov.com/meeting/register/m39vhY_hSl6YRBwwpRPdgw)
