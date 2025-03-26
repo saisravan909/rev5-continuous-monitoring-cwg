@@ -60,7 +60,7 @@ This working group will primarily operate on GitHub in the following repository 
 - [Rev5 Continuous Monitoring Working Group Repo](https://github.com/FedRAMP/rev5-continuous-monitoring)
 - [Rev5 Continuous Monitoring Working Group Discussion](https://github.com/FedRAMP/rev5-continuous-monitoring/discussions)
 
-The community mediator will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
+The community mediator will host a weekly hour-long town hall for mediated discussion, updates, and Q&A:
 The first meeting will be held on Monday, March 31st from 1-2 PM via Zoom.  
 
 - [Zoom signup link](https://gsa.zoomgov.com/meeting/register/m39vhY_hSl6YRBwwpRPdgw)
@@ -68,7 +68,7 @@ The first meeting will be held on Monday, March 31st from 1-2 PM via Zoom.
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:
 - [FedRAMP YouTube Channel](https://www.youtube.com/c/FedRAMP)
 
-Every two weeks, the Community Manager will post a Summary of Activity to the CWG that includes the following:
+Every two weeks, the Community Mediated will post a Summary of Activity to the CWG that includes the following:
 - Recap of questions asked by FedRAMP
 - Recap of major topics of discussion
 - Recap of major topics from the weekly town halls
