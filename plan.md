@@ -10,9 +10,10 @@
 - [Changes to CWG Operations](#changes-to-cwg-operations)
 
 ## Background
-FedRAMP Community Working Groups (CWGs) are public, informal and collaborative groups that facilitate industry-led knowledge sharing on best practices for information security. Every FedRAMP CWG has the following primary objectives:
-- Ensure FedRAMP has direct insight into community activities, goals, achievements, best practices, etc. in specific areas to inform creation of standards and policies prior to their formal development.
-- Ensure that FedRAMP stakeholders have equal public access to information from FedRAMP and an open forum and semi-structured opportunities to work towards shared goals in different and innovative ways.
+FedRAMP Community Working Groups (CWGs) are public, informal and collaborative groups that facilitate industry-led knowledge sharing on best practices for information security of cloud services. FedRAMP will rely on the direct engagement provided by CWGs to ensure a smooth transition towards its updated mission of setting standards and policies that enable private innovation to provide solutions to information security problems.
+Every FedRAMP CWG has the following primary objectives:
+1. Ensure FedRAMP has direct insight into community activities, goals, achievements, best practices, etc. in specific areas to inform creation of standards and policies prior to their formal development.
+1. Ensure that FedRAMP stakeholders have equal public access to information from FedRAMP and an open forum and semi-structured opportunities to work towards shared goals in different and innovative ways.
 
 ## Rev5 Continuous Monitoring Working Group
 The Rev 5 Continuous Monitoring Reporting Working Group will be an informal, collaborative group; involve voluntary participation of all members; provide transparent information about sessions; and its scope excludes the development of FedRAMP standards and policies. The Rev 5 Continuous Monitoring Reporting Working Group is focused on the development of continuous monitoring reports, and how these reports for CSPs with FedRAMP Rev. 5 authorizations will be developed to meet agency needs.
@@ -40,7 +41,6 @@ Community working group mediators are PMO participants responsible for administr
   - Provide general working group facilitation, ensuring folks stay on track with the agenda, and that everyone is able to participate appropriately.
   - Schedule meetings and post a public calendar, ensure agendas are developed, the meeting platform works appropriately, and notes are captured and posted.
   - Occasionally pose questions to the group in a way that is clearly designed to spark general discussion around a topic to see individual opinions and responses.
-  - Select community moderators from public applications in alignment with the group plan.
 
 In addition, the following member of the FedRAMP PMO will support this community as FedRAMP advocate, sharing additional information and addressing feedback as appropriate:
 - Ryan Hodges, [@ryan-hodges-gsa](https://www.github.com/ryan-hodges-gsa)
@@ -51,8 +51,7 @@ FedRAMP Advocates are PMO folks engaging with the CWGs and advocating for FedRAM
   - Share public prototypes, examples, sample code, etc. developed by FedRAMP to be placed in the public domain.
   - Contribute to the development of additional public prototypes, examples, sample code, etc. developed by participants of the working group where that work is public and contributions will remain in the public domain.
 
-All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Mediator and FedRAMP advocates. Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not manage or control the CWGs activities, nor will we use working groups to seek consensus advice, review, or approval. 
-
+All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Mediator and FedRAMP advocates. Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not manage or control the CWGs activities, nor will we use working groups to seek consensus advice, review, or approval.
 FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from government representatives participating in the CWG: [FedRAMP Disclaimer](https://fedramp.gov/disclaimer)
 
 ## Transparency and Communication
@@ -60,7 +59,7 @@ This working group will primarily operate on GitHub in the following repository 
 - [Rev5 Continuous Monitoring Working Group Repo](https://github.com/FedRAMP/rev5-continuous-monitoring)
 - [Rev5 Continuous Monitoring Working Group Discussion](https://github.com/FedRAMP/rev5-continuous-monitoring/discussions)
 
-The Community Mediator will host a weekly hour-long town hall for discussion, updates, and Q&A:
+The Community Mediator will host regular town halls for discussion, updates, and Q&A:
 The first meeting will be held on Monday, March 31st at 1 PM EST via Zoom.  
 
 - [Zoom signup link](https://gsa.zoomgov.com/meeting/register/m39vhY_hSl6YRBwwpRPdgw)
@@ -76,4 +75,4 @@ Every two weeks, the Community Mediator will post a Summary of Activity to the C
 - Expected topics of focus for the next two weeks
   
 ## Changes to CWG Operations
-FedRAMP Community Working Groups are a new idea that will need to be continuously and incrementally improved. FedRAMP is committed to supporting CWGs throughout the development of FedRAMP 2025 and will make necessary adjustments.
+FedRAMP Community Working Groups are a new idea that will need to be continuously and incrementally improved. FedRAMP is committed to supporting CWGs throughout the development of FedRAMP 20x and will make necessary adjustments.
