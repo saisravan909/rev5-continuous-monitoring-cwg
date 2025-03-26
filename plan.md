@@ -10,7 +10,7 @@
 - [Changes to CWG Operations](#changes-to-cwg-operations)
 
 ## Background
-FedRAMP Community Working Groups (CWGs) are public, informal and collaborative groups that facilitate industry-led knowledge sharing on commercial and government best practices for information security. Every FedRAMP CWG has the following primary objectives:
+FedRAMP Community Working Groups (CWGs) are public, informal and collaborative groups that facilitate industry-led knowledge sharing on best practices for information security. Every FedRAMP CWG has the following primary objectives:
 - Ensure FedRAMP has direct insight into community activities, goals, achievements, best practices, etc. in specific areas to inform creation of standards and policies prior to their formal development.
 - Ensure that FedRAMP stakeholders have equal public access to information from FedRAMP and an open forum and semi-structured opportunities to work towards shared goals in different and innovative ways.
 
@@ -29,7 +29,7 @@ The Rev5 Continuous Monitoring Working Group is especially relevant for members 
 ## Key Community Working Groups Activities
 FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP but participants are strongly encouraged to self-organize around activities related to the CWG. 
   - **Transition of all Oversight Activities**
-  - **Identify and Share Best Practices in Continuos Monitoring**
+  - **Identify and Share Best Practices in Continuous Monitoring**
   - **Keep Legacy Authorized Parties abreast of Authorization Changes**
     
 ## Interaction with FedRAMP
@@ -51,7 +51,7 @@ FedRAMP Advocates are PMO folks engaging with the CWGs and advocating for FedRAM
   - Share public prototypes, examples, sample code, etc. developed by FedRAMP to be placed in the public domain.
   - Contribute to the development of additional public prototypes, examples, sample code, etc. developed by participants of the working group where that work is public and contributions will remain in the public domain.
 
-All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Mediator and FedRAMP advocates. Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not use working groups to seek consensus advice, review, or approval. 
+All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Mediator and FedRAMP advocates. Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not manage or control the CWGs activities, nor will we use working groups to seek consensus advice, review, or approval. 
 
 FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from government representatives participating in the CWG: [FedRAMP Disclaimer](https://fedramp.gov/disclaimer)
 
@@ -60,15 +60,15 @@ This working group will primarily operate on GitHub in the following repository 
 - [Rev5 Continuous Monitoring Working Group Repo](https://github.com/FedRAMP/rev5-continuous-monitoring)
 - [Rev5 Continuous Monitoring Working Group Discussion](https://github.com/FedRAMP/rev5-continuous-monitoring/discussions)
 
-The community mediator will host a weekly hour-long town hall for mediated discussion, updates, and Q&A:
-The first meeting will be held on Monday, March 31st from 1-2 PM via Zoom.  
+The Community Mediator will host a weekly hour-long town hall for discussion, updates, and Q&A:
+The first meeting will be held on Monday, March 31st at 1 PM EST via Zoom.  
 
 - [Zoom signup link](https://gsa.zoomgov.com/meeting/register/m39vhY_hSl6YRBwwpRPdgw)
 
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:
 - [FedRAMP YouTube Channel](https://www.youtube.com/c/FedRAMP)
 
-Every two weeks, the Community Mediated will post a Summary of Activity to the CWG that includes the following:
+Every two weeks, the Community Mediator will post a Summary of Activity to the CWG that includes the following:
 - Recap of questions asked by FedRAMP
 - Recap of major topics of discussion
 - Recap of major topics from the weekly town halls
