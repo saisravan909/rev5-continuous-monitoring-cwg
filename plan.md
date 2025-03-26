@@ -75,4 +75,4 @@ Every two weeks, the Community Mediator will post a Summary of Activity to the C
 - Expected topics of focus for the next two weeks
   
 ## Changes to CWG Operations
-FedRAMP Community Working Groups are a new idea that will need to be continuously and incrementally improved. FedRAMP is committed to supporting CWGs throughout the development of FedRAMP 2025 and will make necessary adjustments.
+FedRAMP Community Working Groups are a new idea that will need to be continuously and incrementally improved. FedRAMP is committed to supporting CWGs throughout the development of FedRAMP 20x and will make necessary adjustments.
