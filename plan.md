@@ -40,7 +40,7 @@ Community working group mediators are PMO participants responsible for administr
   - Provide general working group facilitation, ensuring folks stay on track with the agenda, and that everyone is able to participate appropriately.
   - Schedule meetings and post a public calendar, ensure agendas are developed, the meeting platform works appropriately, and notes are captured and posted.
   - Occasionally pose questions to the group in a way that is clearly designed to spark general discussion around a topic to see individual opinions and responses.
-  - Select community moderators from public applications in alignment with the group charter.
+  - Select community moderators from public applications in alignment with the group plan.
 
 In addition, the following member of the FedRAMP PMO will support this community as FedRAMP advocate, sharing additional information and addressing feedback as appropriate:
 - Ryan Hodges, [@ryan-hodges-gsa](https://www.github.com/ryan-hodges-gsa)
